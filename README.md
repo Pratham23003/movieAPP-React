@@ -1,7 +1,7 @@
-# MovieApp
+# [MovieApp](https://movie-app-react-five-smoky.vercel.app/)
 
 A simple movie discovery app that helps you find **movies**.
-
+Check it out here: https://movie-app-react-five-smoky.vercel.app/
 ---
 
 ## Features
@@ -93,7 +93,6 @@ While building this project, I learned:
 - Preventing duplicate trending entries caused by partial or inconsistent searches
 - Ensuring search counts updated correctly for previously searched movies
 - Avoiding unnecessary analytics updates caused by rapid user input
-
 
 ---
 
