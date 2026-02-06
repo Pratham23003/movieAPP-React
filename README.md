@@ -1,7 +1,7 @@
 # [MovieApp](https://movie-app-react-five-smoky.vercel.app/)
 
 A simple movie discovery app that helps you find **movies**.
-Check it out here: https://movie-app-react-five-smoky.vercel.app/
+### Check it out here: https://movie-app-react-five-smoky.vercel.app/
 ---
 
 ## Features
