@@ -95,3 +95,6 @@ While building this project, I learned:
 - Avoiding unnecessary analytics updates caused by rapid user input
 
 
+---
+
+### Special Thanks to [Adrian Hajdin](https://jsmastery.com/)
